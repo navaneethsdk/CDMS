@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&display=swap');
+.card{
+    margin-top: 1em;
+}
+.main-heading{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding-top:100px ;
+}
